@@ -1,6 +1,6 @@
 import PropTypes from 'prop-types';
 
-function PlanetCard({ planetName }, { planetImage }) {
+function PlanetCard({ planetName, planetImage }) {
   return (
     <div data-testid="planet-card">
       <p>{ planetName }</p>
