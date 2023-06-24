@@ -1,11 +1,4 @@
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-  background-image: url(./images/background.png);
-}
-
-.titulo {
+.project-title {
   color: #FFF;
   text-align: center;
   font-size: 40px;
