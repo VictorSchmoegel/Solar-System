@@ -1,0 +1,33 @@
+.missions-title {
+  color: #FFF;
+  text-align: center;
+  font-size: 40px;
+  font-family: Epilogue;
+  font-weight: 300;
+  line-height: 150%;
+  text-transform: uppercase;
+  padding-top: 30px;
+}
+
+.missions-list {
+  list-style: none;
+  width: 1098px;
+  height: 2276px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+  border-radius: 30px;
+  background: #3837373d;
+  color: #FFF;
+  margin: auto;
+}
+
+.missions-items {
+  width: 496px;
+  height: 192px;
+  flex-shrink: 0;
+  border: 1px solid #FFF;
+  color: white;
+}

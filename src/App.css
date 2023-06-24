@@ -2,9 +2,15 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  background-image: url(./images/background.png);
 }
 
-.App {
+.titulo {
+  color: #FFF;
   text-align: center;
-  background-color: #282c34;
+  font-size: 40px;
+  font-family: Epilogue;
+  font-weight: 300;
+  line-height: 150%;
+  text-transform: uppercase;
 }

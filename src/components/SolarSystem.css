@@ -1,0 +1,12 @@
+.planet-list {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  text-align: center;
+  flex-wrap: wrap;
+  list-style: none;
+}
+
+img {
+  width: 200px;
+}
